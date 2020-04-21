@@ -5,5 +5,5 @@
   ~85% accuracy reached
 </p>
 <p>
-Based off fast.ai lesson 2
+  Based off <a href="https://course.fast.ai/videos/?lesson=2">fast.ai lesson 2</a>
 </p>
